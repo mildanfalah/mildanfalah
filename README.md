@@ -10,6 +10,13 @@ Saya juga memiliki beberapa sertifikat kelulusan dari beberapa sumber seperti Co
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mildan-falah-7005222b5/)ku ya.
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/mildanfalah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mildanfalah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mildanfalah&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
 
 <!--
 **mildanfalah/mildanfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
