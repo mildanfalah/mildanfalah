@@ -1,4 +1,15 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Mildan Falah**.<br>
+
+Saya seorang **Peserta Bootcamp** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya sedang mempelajari tentang Web Developer.<br>
+
+Saya juga memiliki beberapa sertifikat kelulusan dari beberapa sumber seperti Codepolitan, Coursera, Freecodecamp, dan juga Codecademy.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mildan-falah-7005222b5/)ku ya.
+
 
 <!--
 **mildanfalah/mildanfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
