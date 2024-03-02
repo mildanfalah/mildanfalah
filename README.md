@@ -1,10 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Mildan Falah**.<br>
+Perkenalkan nama saya **Mildan**.<br>
 
-Saya seorang **Peserta Bootcamp** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya sedang mempelajari tentang Web Developer.<br>
+Saya sedang mempelajari tentang Web Developer, dan sekarang saya sedang menjalani **Bootcamp** di [Dicoding](https://www.dicoding.com/).<br>
 
 Saya juga memiliki beberapa sertifikat kelulusan dari beberapa sumber seperti Codepolitan, Coursera, Freecodecamp, dan juga Codecademy.<br>
 
