@@ -6,7 +6,7 @@ Saya sedang mempelajari tentang Web Developer, dan sekarang saya sedang menjalan
 
 Saya juga memiliki beberapa sertifikat kelulusan dari beberapa sumber seperti Codepolitan, Coursera, Freecodecamp, dan juga Codecademy.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mildan-falah-7005222b5/)ku ya.
+Jika tertarik silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mildan-falah-7005222b5/) saya.
 
 ### Github Statistic
 <p align="left">
