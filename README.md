@@ -1,7 +1,7 @@
-- ???? Hi, I'm Mildan Falah
-- ???? I'm interested in Software Engineering
-- ???? I'm currently learning Front-End Web Development Learning Path
-- ???? How to reach me on 
+- :wave: Hi, I'm Mildan Falah
+- :japanese_goblin: I'm interested in Software Engineering
+- :octocat: I'm currently learning Front-End Web Development Learning Path
+- :japanese_ogre: How to reach me on 
 <a href="https://www.instagram.com/mildan_falah/" target="_blank">Instagram</a>, and
 <a href="https://www.linkedin.com/in/mildan-falah/" target="_blank">LinkedIn</a>
 
