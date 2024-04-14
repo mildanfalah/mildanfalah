@@ -1,12 +1,9 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Mildan**.<br>
-
-Saya sedang mempelajari tentang Web Developer, dan sekarang saya sedang menjalani **Bootcamp** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya juga memiliki beberapa sertifikat kelulusan dari beberapa sumber seperti Codepolitan, Coursera, Freecodecamp, dan juga Codecademy.<br>
-
-Jika tertarik silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mildan-falah-7005222b5/) saya.
+- ???? Hi, I'm Mildan Falah
+- ???? I'm interested in Software Engineering
+- ???? I'm currently learning Front-End Web Development Learning Path
+- ???? How to reach me on 
+<a href="https://www.instagram.com/mildan_falah/" target="_blank">Instagram</a>, and
+<a href="https://www.linkedin.com/in/mildan-falah/" target="_blank">LinkedIn</a>
 
 ### Github Statistic
 <p align="left">
